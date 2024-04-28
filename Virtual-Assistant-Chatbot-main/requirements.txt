@@ -1,0 +1,8 @@
+SpeechRecognition # for Voice commands
+clipboard # For working with clipboard
+newsapi # For Getting news
+newsapi-python # For News api
+psutil # For getting compute infos
+pyautogui # For performing some GUI operation
+pyttsx3 # For Voice Interaction
+pyaudio # For working with audio
