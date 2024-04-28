@@ -2,7 +2,7 @@ import requests
 articles = []
 class News:
     def __init__(self):
-        self.key = "8b23e03ba***************"
+        self.key = "8b23e03ba***************" #create your account and enter here your api key
 
     def get_top_headlines(self):
         api_address = "https://newsapi.org/v2/top-headlines?country=in&apiKey=" + self.key
